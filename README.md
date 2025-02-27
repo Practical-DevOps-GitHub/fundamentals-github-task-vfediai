@@ -22,7 +22,7 @@
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
 
 5. Create project for this repository.
-
+ff
 6. Add deploy key with name `DEPLOY_KEY` to your repository.
 
 7. Create discord server and add notification when PR was created.

@@ -25,7 +25,7 @@
 
 6. Add deploy key with name `DEPLOY_KEY` to your repository.
 
-7. Create discord server and add notification when PR was created!
+7. Create discord server and add notification when PR was created.
 
 8. For github actions: 
 - create PAT (Personal Access Token) with **Full control of private repositories** and **Full control of orgs and teams, read and write org projects**
